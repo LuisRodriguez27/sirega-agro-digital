@@ -94,7 +94,7 @@ function Hero() {
             con inteligencia.
           </h1>
           <p className="mt-6 max-w-xl text-lg text-white/80">
-            SIREGA es el Sistema Integral de Registro y Evaluación Ganadera que
+            SIREGA es el Sistema  de Registro Ganadero que
             combina trazabilidad, datos productivos y analítica para que tomes
             mejores decisiones desde el potrero.
           </p>
